@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///home/grikxx/Documents/Codes/Avren/web/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,0IAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
-    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///home/grikxx/Documents/Codes/Avren/web/app/page.tsx"],"sourcesContent":["export default function Page() {\n  return (\n    <main className=\"flex min-h-screen flex-col items-center justify-center bg-black text-white p-24\">\n      \n      <nav>\n        <ul>\n          <li><a href=\"#home\">Home</a></li>\n          <li><a href=\"#about\">About</a></li>\n          <li><a href=\"#services\">Services</a></li>\n          <li><a href=\"#contact\">Contact</a></li>\n        </ul>\n      </nav>\n    </main>\n  );\n}"],"names":["Page","className","href"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,qPAAC;QAAKC,WAAU;kBAEd,cAAA,qPAAC;sBACC,cAAA,qPAAC;;kCACC,qPAAC;kCAAG,cAAA,qPAAC;4BAAEC,MAAK;sCAAQ;;;;;;;;;;;kCACpB,qPAAC;kCAAG,cAAA,qPAAC;4BAAEA,MAAK;sCAAS;;;;;;;;;;;kCACrB,qPAAC;kCAAG,cAAA,qPAAC;4BAAEA,MAAK;sCAAY;;;;;;;;;;;kCACxB,qPAAC;kCAAG,cAAA,qPAAC;4BAAEA,MAAK;sCAAW;;;;;;;;;;;;;;;;;;;;;;;;;;;AAKjC"}}]
-}
