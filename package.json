@@ -1,0 +1,24 @@
+{
+  "name": "avren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix api\" \"npm run dev --prefix web\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grikxx/Avren.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grikxx/Avren/issues"
+  },
+  "homepage": "https://github.com/Grikxx/Avren#readme",
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  }
+}
